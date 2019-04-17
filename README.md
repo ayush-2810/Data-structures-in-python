@@ -12,4 +12,4 @@ This repository contains the implementation of  data structures in python.
 
     - **Linked_list_deletion_from_end** : This file contains the way in which we can delete a node from the end of the linked list.  
     
-    - Linked_list_deletion_from_between : This file contains the way in which we can delete a node from the between of two nodes of the linked list.
+    - **Linked_list_deletion_from_between** : This file contains the way in which we can delete a node from the between of two nodes of the linked list.
