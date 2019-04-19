@@ -15,3 +15,5 @@ This repository contains the implementation of  **data** **structures** in pytho
     - **Linked_list_deletion_from_between** : This file contains the way in which we can delete a node from the between of two nodes of the linked list.
 
     - **Linked_list_duplicate_deletion** : This file contains the way in which we can delete a the duplicats node in the linked list.
+
+    - Linked_list_rotation : This file contains the way in which we can rotate the linked list.
