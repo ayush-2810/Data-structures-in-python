@@ -1,4 +1,4 @@
-# Data-structures-in-python
+# **Data-structures-in-python**
 This repository contains the implementation of  **data** **structures** in **python**.
 
 
