@@ -1,5 +1,5 @@
 # **Data-structures-in-python**
-This repository contains the implementation of  **data** **structures** in **python**.
+This repository contains the **implementation** of  **data** **structures** in **python**.
 
 
 - ### **Linked list** : This file contains the implementation of linked list and various other functions that can be performed on linked list.  
